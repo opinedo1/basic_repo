@@ -1,2 +1,5 @@
 This file is a random string of text that is being added and pushed into
 the remote git repository.
+
+Making additional changes to this text file in order to commit some new
+changes onto the remote repository.
